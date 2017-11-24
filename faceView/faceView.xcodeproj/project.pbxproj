@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D886D8171FC7CB9E00ACCBE8 /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = D886D8161FC7CB9E00ACCBE8 /* FacialExpression.swift */; };
 		D8F000AD1FC7903700235AE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F000AC1FC7903700235AE5 /* AppDelegate.swift */; };
 		D8F000AF1FC7903700235AE5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F000AE1FC7903700235AE5 /* ViewController.swift */; };
 		D8F000B21FC7903700235AE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8F000B01FC7903700235AE5 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D886D8161FC7CB9E00ACCBE8 /* FacialExpression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 		D8F000A91FC7903700235AE5 /* faceView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = faceView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8F000AC1FC7903700235AE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D8F000AE1FC7903700235AE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				D8F000AC1FC7903700235AE5 /* AppDelegate.swift */,
 				D8F000AE1FC7903700235AE5 /* ViewController.swift */,
+				D886D8161FC7CB9E00ACCBE8 /* FacialExpression.swift */,
 				D8F000B01FC7903700235AE5 /* Main.storyboard */,
 				D8F000BE1FC790C700235AE5 /* FaceView.swift */,
 				D8F000B31FC7903700235AE5 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8F000AF1FC7903700235AE5 /* ViewController.swift in Sources */,
+				D886D8171FC7CB9E00ACCBE8 /* FacialExpression.swift in Sources */,
 				D8F000AD1FC7903700235AE5 /* AppDelegate.swift in Sources */,
 				D8F000BF1FC790C700235AE5 /* FaceView.swift in Sources */,
 			);
